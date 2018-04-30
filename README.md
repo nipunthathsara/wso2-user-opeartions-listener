@@ -1,5 +1,5 @@
-# wso2-tenant-handler
-Tenant management listener to execute custom code in tenant’s life-cycle
+# wso2-user-operations-handler
+Execute custom logic once the Ask Password user has used the email link to set their password
 
 ## Configurations
 1. Implement your custom logic
